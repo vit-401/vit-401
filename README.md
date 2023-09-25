@@ -1,6 +1,6 @@
 
 
-# Hi, my name is Vitaly Prisyazhnyuk!<h1>
+# Hi, my name is Vitali Prysiazhniuk!<h1>
 
 ### I am improving my skills in Front End direction  and  expanding  them  with new technologies. My free time is dedicated to :man_technologist:[Codewars](https://www.codewars.com/users/vit-401) and becoming familiar with NodeJS. In the future I see myself as a Full Stack Developer. Ready to consider project work and full-time employment.<h1>
 
