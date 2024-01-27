@@ -1,12 +1,14 @@
 
 
-# Hi, my name is Vitali Prysiazhniuk!<h1>
+# Hi, my name is Vitalii Prysiazhniuk!<h1>
 
-### I am improving my skills in Front End direction  and  expanding  them  with new technologies. My free time is dedicated to :man_technologist:[Codewars](https://www.codewars.com/users/vit-401) and becoming familiar with NodeJS. In the future I see myself as a Full Stack Developer. Ready to consider project work and full-time employment.<h1>
+### Skilled Frontend engineer with 6 years of experience in architecting, building, and delivering scalable solutions in the
+fintech, e-commerce, and entertainment industries. Most notably, my recent work involved a project for the health sector
+that was globally introduced to serve the United States military..<h1>
 
-### :briefcase: [Portfolio](https://vit-401.github.io/portfolio/) <h6>
+### :briefcase: [Linkedin]([https://vit-401.github.io/portfolio/](https://www.linkedin.com/in/vitalii-prysiazhniuk/)) <h6>
 
-### :clipboard: [CV]()
+
 
 
 ### Main Skills:
