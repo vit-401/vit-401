@@ -12,7 +12,7 @@ that was globally introduced to serve the United States military
 
 ### :email: Mail me: [vitaliy.pr401@gmail.com](vitaliy.pr401@gmail.com)
 ### :globe_with_meridians: [Telegram:](https://t.me/Vitaliy_Prisyagnuk) @Vitaliy_Prisyagnuk
-### :globe_with_meridians: [LinkedIn:](https://www.linkedin.com/in/vitalii-prysiazhniuk/) Vitaly Prisyazhnyuk
+### :globe_with_meridians: [[LinkedIn](https://www.linkedin.com/in/vitalii-prysiazhniuk/):](https://www.linkedin.com/in/vitalii-prysiazhniuk/) Vitaly Prisyazhnyuk
 
 
 
